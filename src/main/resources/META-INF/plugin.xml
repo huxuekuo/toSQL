@@ -14,7 +14,8 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-在使用Mybatis开发时,在XML文件中经常实现where/if标签,等需要验证SQL正确性时需要手动去除,此工具帮助快速去除标签和动态属性,做到直接执行
+        When developing with MyBatis, we often use the <where> and <if> tags in XML files to implement conditional SQL statements. However, when we need to verify the correctness of the SQL, we have to manually remove these tags and dynamic attributes. This tool helps in quickly removing the tags and dynamic attributes, enabling direct execution of translated SQL statements.
+        在使用我的代码进行开发时，我们经常在xml文件中使用<where>和<if>标记来实现条件sql语句。然而，当我们需要验证sql的正确性时，我们必须手动删除这些标签和动态属性。此工具有助于快速删除标记和动态属性，从而支持直接执行翻译后的sql语句。
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.
