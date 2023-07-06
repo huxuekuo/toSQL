@@ -1,6 +1,13 @@
 # toSQL
 Mybatis XML 转换为 SQL语句
 
+## 使用方法
+1. 可以在IDEA plugin 中搜索 toSQL
+2. 使用源码编译后的jar, 在IDEA plugin 中添加
+3. 在releases中下载jar文件
+
+## 转换效果展示
+
 ```xml
   <select id="findPage" parameterType="map" resultMap="BaseResultMap">
     select * from c AS c
