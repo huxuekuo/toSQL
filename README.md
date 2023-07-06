@@ -1,5 +1,5 @@
 # toSQL
-Mybatis XML 转换为 SQL语句
+Mybatis XML 转换为 SQL语句, 欢迎大家提供想法一起完善❤️
 
 ## 使用方法
 1. 可以在IDEA plugin 中搜索 toSQL
