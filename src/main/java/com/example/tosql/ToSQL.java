@@ -15,5 +15,4 @@ public class ToSQL extends AnAction {
         OptContent.setSysClipboardText(sqlParse);
     }
 
-
 }

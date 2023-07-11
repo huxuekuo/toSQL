@@ -1,7 +1,5 @@
 package com.example.tosql.util;
 
-import com.example.tosql.enumall.SqlTagEnum;
-
 public class SQLParseTree {
 
 
